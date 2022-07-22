@@ -35,7 +35,7 @@ After taking the count of the total employees in the mentorship_eligibility tabl
 
 ![total_mentors](https://user-images.githubusercontent.com/107213807/180572746-bcaa0820-148c-479b-9444-6494b6e47ba9.png)
 
-The number of potential mentors relative to the total retiring, there may not be enough mentors to teach new employees looking to take the roles lost from the "silver tsunami".
+The number of potential mentors relative to the total retiring, there may not be enough mentors to teach new employees looking to take the roles lost from the "silver tsunami". With the current number of potential mentors, each mentor would have to take on around 47 new employees each. 
 
 
 
