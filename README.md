@@ -21,3 +21,22 @@ The purpose of this analysis was to generate tables containing the titles of Pew
 
 
 ## Summary:
+
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+Taking the sum of the retiring_titles count, we can see that there are a total of 72458 roles that will need to be filled.
+
+![total_retiring](https://user-images.githubusercontent.com/107213807/180571933-fca3d73b-b6c0-4fab-93ad-dfb8272529a2.png)
+
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+After taking the count of the total employees in the mentorship_eligibility table, There are a total of 1549 potential employees that are eligible to be mentors.
+
+![total_mentors](https://user-images.githubusercontent.com/107213807/180572746-bcaa0820-148c-479b-9444-6494b6e47ba9.png)
+
+The number of potential mentors relative to the total retiring, there may not be enough mentors to teach new employees looking to take the roles lost from the "silver tsunami".
+
+
+
+
